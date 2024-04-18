@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Apotheosis2309/30-nites-of-code)  
