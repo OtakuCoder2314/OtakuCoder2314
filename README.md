@@ -1,15 +1,15 @@
-<!-- ARGONAUT OS — GitHub Profile README v0.8.0 -->
+<!-- ARGONAUT OS — GitHub Profile README v0.9.1 -->
 <div align="center">
 
-<img src="outputs/github_OtakuCoder2314.svg" alt="GitHub Stats" width="640"/>
+<img src="github_OtakuCoder2314.svg" alt="GitHub Stats" width="640"/>
 
 <br/>
 
-<img src="outputs/profile_siranjevee.svg" alt="Skill Matrix" width="640"/>
+<img src="profile_siranjevee.svg" alt="Skill Matrix" width="640"/>
 
 <br/>
 
-<img src="outputs/boot.gif" alt="ARGONAUT OS Boot" width="640"/>
+<img src="boot.gif" alt="ARGONAUT OS Boot" width="640"/>
 
 </div>
 
@@ -66,8 +66,6 @@ CGPA        7.51 / 10
 ---
 
 <div align="center">
-<sub>Built with <a href="https://github.com/OtakuCoder2314">ARGONAUT OS</a> · Retro Terminal Rendering Engine</sub>
+<sub>Built with ARGONAUT OS · Retro Terminal Rendering Engine</sub>
 </div>
-
-
 
