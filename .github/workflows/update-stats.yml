@@ -1,0 +1,36 @@
+# .github/workflows/update-stats.yml — ARGONAUT OS v0.9.0
+name: Refresh GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Every Sunday at midnight UTC
+  workflow_dispatch:        # Allow manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Pillow
+        run: pip install Pillow -q
+
+      - name: Render updated SVG
+        run: python render_stats.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "ARGONAUT OS Bot"
+          git config user.email "argonaut@camber.cloud"
+          git add outputs/github_OtakuCoder2314.svg
+          git diff --cached --quiet || git commit -m "chore: auto-refresh github stats [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
