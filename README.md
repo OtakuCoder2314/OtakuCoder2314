@@ -31,7 +31,7 @@ CGPA        7.51 / 10
 
 | Domain | Tools |
 |---|---|
-| **Programming** | Python · C · C++ (learning) |
+| **Programming** | Python · HTML (BASIC) . C · C++ (learning) |
 | **Operating Systems** | Linux (Arch / EndeavourOS) · Windows |
 | **Version Control** | Git · GitHub |
 | **Engineering** | SolidWorks · ANSYS · OriginPro |
