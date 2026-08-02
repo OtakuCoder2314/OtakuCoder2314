@@ -76,6 +76,35 @@ Ready.
 ```bash
 siranjevee@argonaut:~$ profile
 ```
+```text
+============================================================
+                     PLAYER PROFILE
+============================================================
+
+NAME            : Siranjevee Rajakumar
+
+CLASS           : Mechanical Engineer
+
+SPECIALIZATION  : Software Engineering
+                  Game Technology
+                  Linux Systems
+
+STATUS          : ONLINE
+                  LEARNING
+
+CURRENT QUEST   : Transition into the Game Industry
+
+LOCATION        : Chennai, India
+
+LANGUAGES       : English
+                  Tamil
+
+ALIGNMENT       : Builder / Explorer
+
+REPUTATION      : Honest Learner
+                  Open Source Enthusiast
+============================================================
+```
 
 
 
