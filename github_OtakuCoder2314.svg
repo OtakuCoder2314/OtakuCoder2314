@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 620" width="640" height="620">
+  <rect width="640" height="620" fill="#0D0221"/>
+  <rect x="16" y="16" width="608" height="24" fill="#1A0040" stroke="none" rx="0"/>
+  <text x="24" y="32" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">ARGONAUT OS  v0.6.0  [ GITHUB :: OTAKUCODER2314 ]</text>
+  <text x="24" y="64" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">// OPERATOR STATS</text>
+  <text x="24" y="84" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Handle              </text>
+  <text x="184" y="84" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">OtakuCoder2314</text>
+  <text x="24" y="100" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Repos               </text>
+  <text x="184" y="100" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">5</text>
+  <text x="24" y="116" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Followers           </text>
+  <text x="184" y="116" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">3</text>
+  <text x="24" y="132" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Following           </text>
+  <text x="184" y="132" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">6</text>
+  <text x="24" y="148" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Location            </text>
+  <text x="184" y="148" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Chennai, India</text>
+  <text x="24" y="164" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Member Since        </text>
+  <text x="184" y="164" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">2023-09-27</text>
+  <line x1="16" y1="180" x2="624" y2="180" stroke="#1A0040" stroke-width="1"/>
+  <text x="24" y="194" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">// TOP REPOSITORIES</text>
+  <text x="24" y="214" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">OtakuCoder2314      </text>
+  <text x="184" y="214" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Python       ★ 0</text>
+  <text x="24" y="230" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">argonaut-os         </text>
+  <text x="184" y="230" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">—            ★ 0</text>
+  <text x="24" y="246" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Global-Temp-Analysis</text>
+  <text x="184" y="246" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Jupyter Notebook ★ 0</text>
+  <text x="24" y="262" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">github-chapter-2-contr</text>
+  <text x="184" y="262" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">—            ★ 0</text>
+  <text x="24" y="278" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">metrics             </text>
+  <text x="184" y="278" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">JavaScript   ★ 0</text>
+  <line x1="16" y1="294" x2="624" y2="294" stroke="#1A0040" stroke-width="1"/>
+  <text x="24" y="308" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">// SYSTEM CHECK</text>
+  <text x="24" y="328" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">GitHub API....................[ OK ]</text>
+  <text x="24" y="344" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">User Profile..................[ OK ]</text>
+  <text x="24" y="360" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">Repo Stats....................[ OK ]</text>
+  <text x="24" y="376" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">Export Ready..................[ OK ]</text>
+  <text x="24" y="406" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="14" fill="#00E5FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>█</text>
+  <rect x="16" y="16" width="608" height="588" fill="none" stroke="#00E5FF" rx="0"/>
+</svg>

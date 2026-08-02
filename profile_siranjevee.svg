@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 620" width="640" height="620">
+  <rect width="640" height="620" fill="#0D0221"/>
+  <rect x="16" y="16" width="608" height="24" fill="#1A0040" stroke="none" rx="0"/>
+  <text x="24" y="32" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">ARGONAUT OS  v0.8.0  [ OTAKUCODER2314 ]</text>
+  <text x="24" y="64" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">// OPERATOR</text>
+  <text x="24" y="84" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Handle              </text>
+  <text x="184" y="84" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">OtakuCoder2314</text>
+  <text x="24" y="100" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Role                </text>
+  <text x="184" y="100" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Game Release Specialist</text>
+  <text x="24" y="116" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Status              </text>
+  <text x="184" y="116" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">Open to Work</text>
+  <text x="24" y="132" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Engine              </text>
+  <text x="184" y="132" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">PIL + SVG + HTML</text>
+  <text x="24" y="148" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Language            </text>
+  <text x="184" y="148" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Python / C / C++</text>
+  <text x="24" y="164" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#E040FB">Degree              </text>
+  <text x="184" y="164" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">B.E. Mechanical Eng.</text>
+  <line x1="16" y1="194" x2="624" y2="194" stroke="#1A0040" stroke-width="1"/>
+  <text x="24" y="208" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">// SKILL MATRIX</text>
+  <text x="24" y="228" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Linux / Arch</text>
+  <rect x="24" y="232" width="592" height="12" fill="#1A0040" stroke="none" rx="2"/>
+  <rect x="24" y="232" width="503" height="12" fill="#00E5FF" stroke="none" rx="2"/>
+  <text x="622" y="242" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="10" font-weight="normal" fill="#E040FB">85%</text>
+  <text x="24" y="260" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Python</text>
+  <rect x="24" y="264" width="592" height="12" fill="#1A0040" stroke="none" rx="2"/>
+  <rect x="24" y="264" width="444" height="12" fill="#00E5FF" stroke="none" rx="2"/>
+  <text x="622" y="274" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="10" font-weight="normal" fill="#E040FB">75%</text>
+  <text x="24" y="292" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Git / GitHub</text>
+  <rect x="24" y="296" width="592" height="12" fill="#1A0040" stroke="none" rx="2"/>
+  <rect x="24" y="296" width="473" height="12" fill="#00E5FF" stroke="none" rx="2"/>
+  <text x="622" y="306" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="10" font-weight="normal" fill="#E040FB">80%</text>
+  <text x="24" y="324" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">C Programming</text>
+  <rect x="24" y="328" width="592" height="12" fill="#1A0040" stroke="none" rx="2"/>
+  <rect x="24" y="328" width="414" height="12" fill="#00E5FF" stroke="none" rx="2"/>
+  <text x="622" y="338" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="10" font-weight="normal" fill="#E040FB">70%</text>
+  <text x="24" y="356" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Game Dev / QA</text>
+  <rect x="24" y="360" width="592" height="12" fill="#1A0040" stroke="none" rx="2"/>
+  <rect x="24" y="360" width="426" height="12" fill="#00E5FF" stroke="none" rx="2"/>
+  <text x="622" y="370" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="10" font-weight="normal" fill="#E040FB">72%</text>
+  <text x="24" y="388" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#00E5FF">Data Analysis</text>
+  <rect x="24" y="392" width="592" height="12" fill="#1A0040" stroke="none" rx="2"/>
+  <rect x="24" y="392" width="384" height="12" fill="#00E5FF" stroke="none" rx="2"/>
+  <text x="622" y="402" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="10" font-weight="normal" fill="#E040FB">65%</text>
+  <line x1="16" y1="420" x2="624" y2="420" stroke="#1A0040" stroke-width="1"/>
+  <text x="24" y="434" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="13" font-weight="bold" fill="#00E5FF">// SYSTEM CHECK</text>
+  <text x="24" y="454" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">Linux Env.....................[ OK ]</text>
+  <text x="24" y="470" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">Git &amp; GitHub..................[ OK ]</text>
+  <text x="24" y="486" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">Python Scripting..............[ OK ]</text>
+  <text x="24" y="502" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">IoT / ESP8266.................[ OK ]</text>
+  <text x="24" y="518" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">CAD / ANSYS...................[ OK ]</text>
+  <text x="24" y="534" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="11" font-weight="normal" fill="#76FF03">Release Eng...................[ OK ]</text>
+  <text x="24" y="564" font-family="IBM Plex Mono, JetBrains Mono, monospace" font-size="14" fill="#00E5FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>█</text>
+  <rect x="16" y="16" width="608" height="588" fill="none" stroke="#00E5FF" rx="0"/>
+</svg>
