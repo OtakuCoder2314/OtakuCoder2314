@@ -15,5 +15,17 @@ I'm currently transitioning from mechanical engineering into software and the ga
 - 🤝 Looking for opportunities in Game Technology
 
 ---
-![Metrics](/github-metrics.svg)
+
+## 💻 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 Programming | C • Python • HTML *(Basic)* • C++ *(Learning)* |
+| 🐧 Operating Systems | Linux (Arch/EndeavourOS) • Windows |
+| 🌿 Version Control | Git • GitHub |
+| ⚙️ Engineering | SolidWorks • ANSYS • OriginPro |
+| 📊 Data Analysis | NumPy • Pandas • Matplotlib • Excel |
+
+---
+<!-- ![Metrics](github-metrics.svg) -->
 
