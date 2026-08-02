@@ -19,7 +19,6 @@
 
 ```
 Handle      OtakuCoder2314
-Role        Game Release Specialist
 Status      Open to Work
 Location    Chennai, Tamil Nadu, India
 Degree      B.E. Mechanical Engineering — PSG College of Technology (2022–2026)
@@ -40,28 +39,9 @@ CGPA        7.51 / 10
 
 ---
 
-## `> projects --top`
-
-**IoT-Based Air Quality Monitoring System**
-> ESP8266 · Blynk Dashboard · Telegram Bot · Real-time sensor network
-
-**Dynamic Inventory Management System**
-> Python · SQL · Demand Forecasting · Data Visualisation
-
----
-
-## `> certs --list`
-
-- 🎓 IELTS Academic — Band 7.0 (CEFR C1)
-- 🏅 CeNSE Summer School on Semiconductor Technology — IISc Bengaluru (2025)
-- 🏅 Data Science with Python — Indian Statistical Institute (2025)
-- 🏅 Five-Day Workshop on Energy Systems & Modelling — NIT Calicut (2023)
-
----
-
 ## `> interests`
 
-`Game Development` `Linux` `Open Source` `Simulation` `Game Physics` `Computer Hardware` `Gaming Technology`
+`Game Development` `Linux` `Open Source` `Simulation` `Game Physics` `Computer Hardware` `PC Gaming` `Game Preservation`
 
 ---
 
