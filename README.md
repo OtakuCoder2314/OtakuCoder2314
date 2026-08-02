@@ -30,5 +30,52 @@ Launching Linux subsystem...
 ```
 
 ```bash
-siranjevee@argonaut:~$
+siranjevee@argonaut:~$ help
 ```
+```text
+============================================================
+                     ARGONAUT OS SHELL
+============================================================
+
+Version    : 1.0.0-alpha
+Build Date : 2026-08-02
+Status     : ACTIVE
+
+COMMAND DIRECTORY
+────────────────────────────────────────────────────────────
+
+ profile      Display player profile
+
+ neofetch     Display system information
+
+ inventory    List installed technologies
+
+ skills       Display technical abilities
+
+ missions     Display completed projects
+
+ quests       Display active objectives
+
+ stats        Display GitHub statistics
+
+ history      Display career timeline
+
+ contact      Display communication terminal
+
+ logout       Exit ARGONAUT OS
+
+────────────────────────────────────────────────────────────
+
+TIP
+
+Type "profile" to begin your journey.
+
+Ready.
+```
+
+```bash
+siranjevee@argonaut:~$ profile
+```
+
+
+
