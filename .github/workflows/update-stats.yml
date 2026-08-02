@@ -1,4 +1,4 @@
-# .github/workflows/update-stats.yml — ARGONAUT OS v0.9.0
+# .github/workflows/update-stats.yml — ARGONAUT OS v0.9.1 (Node.js fix)
 name: Refresh GitHub Stats SVG
 
 on:
@@ -13,11 +13,14 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          node-version: '24'
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          node-version: '24'
 
       - name: Install Pillow
         run: pip install Pillow -q
@@ -27,9 +30,9 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          git config user.name  "ARGONAUT OS Bot"
-          git config user.email "argonaut@camber.cloud"
-          git add outputs/github_OtakuCoder2314.svg
+          git config user.name  "OtakuCoder2314"
+          git config user.email "146255605+OtakuCoder2314@users.noreply.github.com"
+          git add github_OtakuCoder2314.svg
           git diff --cached --quiet || git commit -m "chore: auto-refresh github stats [skip ci]"
           git push
         env:
